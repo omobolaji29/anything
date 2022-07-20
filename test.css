@@ -1,0 +1,25 @@
+
+
+/*
+body{
+    background-image: url(hero-img.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding:100px;
+
+    
+}  
+    
+*/
+    
+
+   button{
+    color:orangered;
+    padding:13px;
+    border-radius:10px;
+    background-color: aqua;
+    text-transform: uppercase;
+    outline:none;    
+    border:none;
+}
+      
